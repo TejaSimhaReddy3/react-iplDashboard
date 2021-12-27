@@ -1,0 +1,26 @@
+.homeLists {
+  list-style: none;
+  background-color: #ffffff33;
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  border: 1px solid white;
+  width: 40%;
+  text-decoration: none;
+}
+.homeListsContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 20px;
+}
+.homeTeamImgs {
+  width: 17%;
+  padding: 20px;
+}
+.teamsHomeHeading {
+  color: white;
+  font-size: 20px;
+  margin-left: 4%;
+}
